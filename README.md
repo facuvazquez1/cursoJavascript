@@ -2,7 +2,7 @@
 
 ## Clases
 
-1. clases/1-Variables 
+1. clase-1/Variables 
 2.
 3.
 4.
